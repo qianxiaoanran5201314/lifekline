@@ -72,8 +72,8 @@ const App: React.FC = () => {
               </h2>
               <p className="text-gray-600 text-lg leading-relaxed mb-8">
                 结合<strong>传统八字命理</strong>与<strong>金融可视化技术</strong>
-                将您的一生运势绘制成类似股票行情的K线图。
-                助您发现人生牛市，规避风险熊市，把握关键转折点。
+                古老的八字是密码，现代的K线是透镜。 当繁复的命理符号被转化为清晰的红绿刻度，您看到的不再是迷信，而是关于自我的数据真相。
+洞悉起伏，预见轨迹。 于波峰处不狂，于波谷处不慌。
               </p>
 
               {/* Tutorial Buttons Group */}
